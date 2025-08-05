@@ -1,8 +1,8 @@
-.pulsating-box {
+.box {
   width: 100px;
   height: 100px;
   background-color: red;
-  margin: 100px auto; /* centers the box horizontally */
+  margin: 100px auto;
   border-radius: 8px;
   animation: pulse 1s ease-in-out infinite;
 }
